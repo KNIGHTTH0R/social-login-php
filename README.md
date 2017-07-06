@@ -7,7 +7,8 @@ Sample implementation of social login in php, using php league oauth 2 client li
 
 # How to use
 Simply copy or clone this git repo to your apache web server root dir (/var/www/html/social-login-php/),
-and then create apache virtual host with domain name kadek.cool
+and then create apache virtual host with domain name kadek.cool, so the local domain kadek.cool is pointing
+to the location /var/www/html/social-login-php/, then access the page http://kadek.cool/
 
 
 # NOTES
